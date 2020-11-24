@@ -1,0 +1,172 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+.button1 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  transition-duration: 0.4s;
+  margin: 11px;
+  width: 23%;
+  border: 3px solid black;
+  padding: 20px;
+  cursor: not-allowed;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  margin: 11px;
+  width: 23%;
+  border: 3px solid green;
+  padding: 20px;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  font-size: 20px;
+}
+
+body {
+  background-image: url(Ark3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: Verdana;
+  color: wheat;.
+  border-radius: 25px 0px 0px 0px;
+  margin: 10px;
+  padding: 20px;
+  text-shadow: 2px 2px #000000;
+}
+
+p {
+  font-family: Verdana;
+  color: gold;
+  border-radius: 25px 0px 0px 0px;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+ul{
+  margin: 10px;
+  padding: 20px;
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+#kader {
+  background-color: rgba(0,0,0,0.2);
+  margin:20px;
+  font-family: Verdana;
+  text-align:center;
+  color: gold;
+  border-radius: 25px 0px 0px 0px;
+  font-size: 20px;
+}
+
+#kader iframe{
+  padding:20px;
+}
+
+h2 {
+  font-family: Verdana;
+  color: wheat;.
+  border-radius: 25px 0px 0px 0px;
+  margin: 10px;
+  padding: 20px;
+  text-shadow: 2px 2px #000000;
+}
+
+a:hover {
+
+}
+
+.link-R {
+  font-family: Verdana;
+  color: gold;
+  border-radius: 25px 0px 0px 0px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.MIDUH {
+  font-family: Verdana;
+  text-align:center;
+  border-radius: 25px 0px 0px 0px;
+}
+
+.midalign{
+  display: flex;
+  justify-content: center;
+}
+
+table{
+  font-family: Verdana;
+  text-align:center;
+  color: gold;
+  font-size: 20px;
+  align-self: center;
+  margin:20px;
+  border: 5px solid aqua;
+  border-radius: 25px 25px 25px 25px;
+  padding: 20px;
+}
+
+td {
+  padding: 5px;
+
+}
+
+tr.logos td img{
+  width:200px;
+  height:200px;
+}
+
+tr.link a {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(0,0,0,0.5);
+  padding:10px;
+  border-radius: 10px 10px 10px 10px;
+  font-size: 14px;
+}
+
+tr.link a:hover{
+  background-color: rgba(0,0,0,0.8);
+  color: aqua;
+
+}
+
+ol {
+  list-style: inside;
+  list-style-type:decimal;
+  display:inline-block;
+  background-color:rgba(255,255,255,0.2);
+}
+
+ol li{
+  width:400px;
+  border:3px solid rgba(255,255,255,0.6);
+  text-align:left;
+  padding:5px;
+}
